@@ -1,17 +1,3 @@
-# Java Tutorial For Beginners
-
-Welcome to this book on **"Learning Java In 150 Steps"**. 
-
-I am **Ranga Karanam**, and I have more than two decades of programming experience. 
-
-I love Programming. One of the aims I had when I started ```in28minutes``` was to make learning programming easy. Thanks for helping us provide amazing courses to 300,000 learners across the world.
-
-At **In28Minutes**, we ask ourselves one question every day: "How do we create awesome learning experiences?" 
-
-In this book, you will learn to write **object** **oriented** code with Java. You will be exposed to a lot of examples, exercises and tips. We will take up a lot of examples, and try and see how to write code for those in Java. 
-
-Help us improve this guide - **Fork, Pull Requests, Shares and Likes are recommended**!
-
 ## Table of Contents
 
 * [Chapter 01 - Introduction to Programming with Print-Multiplication-Table](#introduction-to-programming-with-print-multiplication-table)
@@ -32,61 +18,11 @@ Help us improve this guide - **Fork, Pull Requests, Shares and Likes are recomme
 * [Chapter 16 - Introduction To Exception handling](#introduction-to-exception-handling)
 * [Chapter 17 - File Operations](#file-operations)
 * [Chapter 18 - Concurrency : Advanced Topics](#concurrency--advanced-topics)
-
-## Our Approach
-
-We did a study on why students give up on programming?
-
-The popular answer was
-
-> Difficulty in writing their first program
-
-Put yourselves in the shoes of a beginner and look at this typical ```Java Hello World Example```.
-
-```java
-package com.in28minutes.firstjavaproject; 
-public class HelloWorld 
-{   
-     public static void main(String[] args) {           
-            System.out.println("Hello World");   
-     } 
-}
-```
-
-A ```Programming Beginner``` will be overwhelmed by this. I remember how I felt when I saw this almost 20 years back. Stunned.
-
-Why?
-- There are a number of keywords and concepts - package, public, class, static, void, String[] and a lot more..
-- What if the programmer makes a typo? Will he be able to fix it?
-
-
-**We believe that there has to be a better way to learn programming.**
-
-- Why don't we learn programming step by step? 
-- Why should it not be a lot of fun? 
-- Why don't we solve a lot of problems and learn programming as a result?
-
-This is the approach we took to writing this guide and develop our introductory programming courses for Java and Python. 
-
-> Do you know? The first 3 hours of our Java Course is available [here](https://courses.in28minutes.com/p/java-tutorial-for-beginner-in-250-steps).
-
-
+* 
 
 ## Introduction to Programming with Print-Multiplication-Table
 
 ### Step 01: First Challenge : The Print-Multiplication-Table (*PMT-Challenge*)
-
-Learning to program is a lot like learning to ride a bicycle. The first few steps are the most challenging ones. 
-
-Once you use this stepwise approach to solve a few problems, it becomes a habit. 
-
-In this book, we will introduce you to Java programming by taking on a few simple problems to start off. 
-
-> Having fun along the way is what we will aim to do.
- 
-_Are you all geared up, to take on your first programming challenge? **Yes**?  Let's get started then!_
-
-Our first *programming challenge* aims to do, what every kid does in math class: reading out a multiplication table.
 
 #### The *PMT-Challenge*
 
