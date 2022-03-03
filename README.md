@@ -16826,6 +16826,8 @@ Main Done
 
 
 ##### Snippet-01 Explained
+NOTE - BETTER TO USE RUNNABLE THAN THREAD & THEN USE THE CLASS THREAD TO INSTANTIATE A NEW OBJECT OF CLASS  e.g. Thread task2Thread = new Thread(task2);
+
 
 In this example, we implemented ```Runnable``` by implementing the ```run()``` method from ```Runnable``` interface.
 
