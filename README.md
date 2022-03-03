@@ -17057,12 +17057,12 @@ Above approaches have a few drawbacks:
 * **Difficult to maintain**: Imagine managing 5-10 threads with code written in earlier examples. It would become very difficult to maintain. 
 * **NO Sub-Task Return Mechanism**: With the ```Thread``` ```class``` or the ```Runnable``` ```interface```, there is no way to get the result from a sub-task.
 
-### Step 09: Introducing ```ExecutorService```
+### Step 09: Introducing ```ExecutorService``` - FOR GRANULAR CONTROL OF THREADS ( have to call library - vs thread (for which class is there))
 
 In order to address the serious limitations of the ```Thread``` API, a new ```Executor Service``` was added in **Java SE 5**. 
 
 The ```ExecutorService``` is a framework you can use to manage threads in your code, better.  It has built-in ways to:
-* Create and launch threads more intuitively
+* Create and launch threads more **intuitively**
 * Manage thread state and its life-cycle more easily
 * Synchronize between threads with more control, and
 * Handle groups of threads neatly
